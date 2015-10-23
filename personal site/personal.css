@@ -1,0 +1,76 @@
+body {
+	background-image: url("assets/napali.jpg");
+
+}
+
+p {
+
+	background-color: black;
+	color: white;
+	font: sans-serif;
+	font-family: helvetica;
+	float: left;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#rectangle {
+	width: 600px;
+	height: 525px;
+	background: black;
+	float:right;
+}
+
+h1 {
+	color: black;
+	padding-left: 100px;
+	}
+.climb {
+	float: left;
+	height: 300px;
+	width: 200px;
+}
+
+ .gif {
+	height: 350px;
+	width:350px;
+float: right;
+}
+
+.cooper {
+	float: right;
+	height: 300px;
+	width: 200px:
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+		display: block;
+}
+
+.menu li a:hover {
+    text-decoration: none;
+    color: green;
+    background-color: black;
+}
+.menu li {
+    float: left;
+    list-style: none;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    width: 150px;
+    line-height: 60px;
+		background-color: black;
+}
+.paragraph{
+		background-color: black;
+		color: white;
+		font: sans-serif;
+		font-family: helvetica;
+		float: left;
+		text-align: center;
+		padding-left: 10px;
+		padding-right: 10px;
+}

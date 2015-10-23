@@ -1,0 +1,38 @@
+.menu{
+  height: 500px;
+  width: 200px;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+  margin: 20px;
+  float: left;
+}
+.body{
+  float: left;
+  width: 500px;
+  height:300px;
+}
+.box1{
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  float: left;
+
+}
+.box2{
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  text-align: center;
+  margin-left: 200px;
+  float: left;
+}
+.box3{
+  float:left;
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  margin-left: 400px;
+  margin-bottom: 50px;
+
+}
